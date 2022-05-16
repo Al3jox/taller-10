@@ -1,0 +1,10 @@
+.ubicacion{
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    width: 100%;
+}
+
+.color-propio{
+    background-image: radial-gradient(circle at 49.7% 46.55%, #f1c54d 0, #f1bd45 25%, #f2b53c 50%, #f3ad34 75%, #f3a42d 100%);
+}

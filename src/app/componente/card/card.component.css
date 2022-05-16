@@ -1,0 +1,10 @@
+.efecto{
+    transition: all 400ms ease;
+    box-shadow: 1px 5px 10px rgba(240, 248, 255, 0.2);
+}
+
+.efecto:hover{
+    transform: scale(1.10);
+    border-radius: 15%;
+    box-shadow: 5px 10px 20px rgba(240, 248, 255, 0.4)
+}
